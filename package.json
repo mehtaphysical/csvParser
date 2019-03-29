@@ -1,0 +1,16 @@
+{
+  "name": "band",
+  "version": "1.0.0",
+  "description": "",
+  "main": "csvParser.js",
+  "scripts": {
+    "start": "node csvParser.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^5.1.1",
+    "superagent": "^5.0.2"
+  }
+}
